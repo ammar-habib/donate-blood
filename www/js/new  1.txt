@@ -1,0 +1,17 @@
+var data = '{"name ":"value"}';
+var obj = JOSN.parse(data);
+
+var data = "arry name":[ {"name":"value"},
+                       {"name" : "value"},
+
+]
+function loadDos(){
+var xhttp;
+   if (window.xhttpResquet)
+   {
+     xhttp= new XMLHttpRequest();
+   }
+   else{
+    xhttp = new ActiveXObject("")
+   }
+}
